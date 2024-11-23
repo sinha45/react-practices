@@ -44,3 +44,18 @@
 .reset{
   margin-top: 10px;
 }
+
+.submit{
+  margin-left: 10px;
+}
+
+.task{
+  width: 250px;
+  height: 25px;
+
+}
+
+.taskList{
+  display: flex;
+  gap: 30px;
+}
